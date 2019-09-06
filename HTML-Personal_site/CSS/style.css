@@ -22,6 +22,10 @@ h3 {
   font-style: normal;
 }
 
+h1:hover {
+  color: grey;
+}
+
 /**************** CLASS SELECTORS ****************/
 
 .Chaichana {
@@ -29,8 +33,9 @@ h3 {
 }
 
 .circular {
-  border-radius: 100%
+  border-radius: 100%;
 }
+
 
 /**************** ID SELECTORS *******************/
 
