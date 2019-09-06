@@ -1,0 +1,39 @@
+/***************** TAG SELECTORS *****************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF ;
+  font-style: normal;
+}
+
+h3 {
+  color: #66BFBF;
+  font-style: normal;
+}
+
+/**************** CLASS SELECTORS ****************/
+
+.Chaichana {
+  color: #3e64ff;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+/**************** ID SELECTORS *******************/
+
+#ContactMe {
+  color: #ffb3b3;
+}
